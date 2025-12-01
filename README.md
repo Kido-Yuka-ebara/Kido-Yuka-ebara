@@ -1,16 +1,18 @@
-## Hi there 👋
+# こんにちは! 👋 私は木戸優花です
 
-<!--
-**Kido-Yuka-ebara/Kido-Yuka-ebara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🙋‍♂️ 自己紹介
 
-Here are some ideas to get you started:
+- 🌱 生産プロセス革新・品質保証統括部　生産革新技術部　生産プロセス技術開発課
+- 💻 AI駆動、AI Agentに興味があります
+- 📚 毎日少しずつ成長中です
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ 学習中の技術
+
+- Marp
+- HTML
+- Python
+
+## 📫 連絡先
+
+- メール: kido.yuka@ebara.com
+
