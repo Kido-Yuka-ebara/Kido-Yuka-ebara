@@ -16,4 +16,7 @@
 
 - メール: kido.yuka@ebara.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kido-Yuka-ebara)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github.com/Kido-Yuka-ebara/my-stats-generator/raw/main/profile-summary-card-output/default/0-profile-details.svg)
+
+![](https://github.com/Kido-Yuka-ebara/my-stats-generator/raw/main/profile-summary-card-output/default/2-most-commit-language.svg)
+
