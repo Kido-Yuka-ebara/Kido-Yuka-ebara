@@ -1,22 +1,22 @@
-# こんにちは! 👋
+# 👋 こんにちは! 木戸優花です
 
-## 🙋‍♂️ 自己紹介
+生産プロセス革新・品質保証統括部　生産革新技術部　生産プロセス技術開発課に所属しています。
 
-- 🌱 生産プロセス革新・品質保証統括部　生産革新技術部　生産プロセス技術開発課
-- 💻 AI駆動、AI Agentに興味があります
-- 📚 毎日少しずつ成長中です
+## 📫 連絡先・稼働状況
+
+- **連絡手段:** Google Chat でお気軽にメッセージを飛ばしてください！
+- **稼働時間:** 8:00 - 16:30
+- **勤務形態:** リモートワーク中心 + 木曜出社
 
 ## 🛠️ 学習中の技術
 
 - Marp
 - HTML
 - Python
+- GAS
 
-## 📫 連絡先
+## ⚡ 雑談
 
-- メール: kido.yuka@ebara.com
-
-![](https://github.com/Kido-Yuka-ebara/my-stats-generator/raw/main/profile-summary-card-output/default/0-profile-details.svg)
-
-![](https://github.com/Kido-Yuka-ebara/my-stats-generator/raw/main/profile-summary-card-output/default/2-most-commit-language.svg)
-
+- 好きなエディタ: VS Code
+- 趣味: サウナ、週末のスパイスカレー作り 🍛
+- 最近の関心事: GitHub Actionsの最適化
